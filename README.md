@@ -65,6 +65,7 @@ The project uses the customer shopping behavior dataset located at [dataset/cust
    cd consumer-behavior-data-analysis
    python3 -m venv venv
    source venv/bin/activate
+   pip install -r requirements.txt
    ```
 2. **Open customer-behavior-analysis.ipynb notebook**
 
@@ -104,3 +105,12 @@ The project uses the customer shopping behavior dataset located at [dataset/cust
 ## Why This Project Matters
 
 This repository reflects strong data analytics and business intelligence skills by combining data wrangling, SQL querying, and storytelling with data. It is well suited for showcasing analytical thinking in a professional portfolio.
+
+## Author
+Simbarashe Munatsi , Data Scientist | ML Engineer | AI Engineer
+
+## Contacts
+Email : vsmunatsi@gmail.com LinkedIn : https://www.linkedin.com/in/victor-simbarashe-munatsi/
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
